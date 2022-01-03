@@ -3,7 +3,7 @@ The implementation code for the two case studies in the paper "Recurrent neural 
 ## Installation
 You need Python3, Numpy, Scipy and Pytorch installed
 ## Usage
-* = 1 and 2 for case study I and case study II, respectively.
+\# = 1 and 2 for case study I and case study II, respectively.
 
 - Run *generate_dataset_case#.py* to generate the dataset. 
 - Run *rnn_train_case#.py* to train the RNN.
