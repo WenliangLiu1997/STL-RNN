@@ -15,7 +15,7 @@ The dataset and the trained model are both contained. So the easiest way to use 
 
 ## Citation
 When citing our work, please use the following BibTex:
-```
+'''
 @article{liu2021recurrent,
   title={Recurrent neural network controllers for signal temporal logic specifications subject to safety constraints},
   author={Liu, Wenliang and Mehdipour, Noushin and Belta, Calin},
@@ -23,4 +23,4 @@ When citing our work, please use the following BibTex:
   year={2021},
   publisher={IEEE}
 }
-```
+'''
